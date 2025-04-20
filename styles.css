@@ -196,6 +196,12 @@ h1:hover {
     color: var(--dark);
 }
 
+.company-description {
+    font-size: 0.9rem;
+    color: var(--gray);
+    margin-bottom: 5px;
+}
+
 .date {
     color: var(--gray);
     font-size: 0.9rem;
@@ -210,6 +216,7 @@ h1:hover {
     margin-bottom: 8px;
     position: relative;
     font-size: 0.95rem;
+    text-align: justify;
 }
 
 .job-description li::before {
