@@ -223,7 +223,7 @@ h1:hover {
 }
 
 .job-description li::before {
-    content: '▹';
+    /* content: '▹'; */
     position: absolute;
     left: -15px;
     color: var(--primary);
